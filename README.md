@@ -45,9 +45,11 @@
 
 ## Output
 
+<img width="1016" height="550" alt="image" src="https://github.com/user-attachments/assets/764c172b-5ded-4d03-ab23-00d90f81193a" />
 
-### Name:
-### Register Number: 
+
+### Name: Omkar Varma S
+### Register Number: 212224240108
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
